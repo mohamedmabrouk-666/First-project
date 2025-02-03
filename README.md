@@ -7,4 +7,5 @@ To Practise with us !!!!!!!!!!!!!!!!
 ###### Can you intreduce your self 
  ***This is a bold text***
  **This is a bold text**
+"This line from NotePad"
 
